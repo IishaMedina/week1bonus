@@ -157,4 +157,38 @@ footer p a {
     border-radius: 50%;
 }
 
+@media (max-width: 758px) {
+	nav {
+		visibility: hidden;
+	}
+}
+
+@media (max-width: 739px) {
+	header h1 {
+		font-size: 205%
+
+	}
+}
+
+@media (max-width: 739px) {
+	header h2 {
+		font-size: 139%;
+	}
+
+}
+
+@media (max-width: 188px) {
+	header a {
+		visibility: hidden;
+	}
+}
+
+@media (max-width: 1055px) {
+	.features {
+		text-align: center;
+
+	}
+}
+
+
 
